@@ -1,0 +1,22 @@
+html,
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  background-color: lightyellow;
+  color: tomato;
+  text-align:center;
+}
+
+h2 {
+  color: orange;
+}
+
+h3 {
+  background-color: khaki；
+}
+
+p {
+  background-color: peachpuff;
+}

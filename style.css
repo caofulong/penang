@@ -20,3 +20,9 @@ h3 {
 p {
   background-color: peachpuff;
 }
+.center {
+  diaplay: block;
+  margin-left: auto;
+  margin-right:auto;
+  width:50%;
+}
